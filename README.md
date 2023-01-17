@@ -5,6 +5,8 @@ This repository contains the source code of the final project for the course "Ge
 
 The question we want to answer is the following: can we learn relocation strategies in a Schelling simulation that improve convergence time?
 
+The code that asks this question can be primarly found in the Jupyter Notebook `learn_to_relocate.ipynb`.
+
 ### Phase 1: MESA-based simulation
 
 Write and run a Mesa script implementing a mild random policy for relocation. Collect the complete traces of the simulation, extracting at least the sequence of relocations performed along the simulation.

@@ -1,5 +1,5 @@
 # Schelling and The Pursuit of Happyness
-## Geospatial Analytics - A.A. 2021/22
+## Geospatial Analytics - A.A. 2022/23
 
 This repository contains the source code of the final project for the course "Geospatial Analytics" at the University of Pisa.
 
